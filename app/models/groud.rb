@@ -1,0 +1,2 @@
+class Groud < ApplicationRecord
+end
